@@ -1,5 +1,5 @@
-https://tywangcharlie.github.io/pics/
-React Practice Project - Image Search
+https://tywangcharlie.github.io/pics/<br />
+React Practice Project - Image Search<br />
 Using unsplsh API
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
