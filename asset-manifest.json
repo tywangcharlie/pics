@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/tywangcharlie/pics/static/css/main.064ab282.chunk.css",
-    "main.js": "/tywangcharlie/pics/static/js/main.a08fa393.chunk.js",
-    "main.js.map": "/tywangcharlie/pics/static/js/main.a08fa393.chunk.js.map",
-    "runtime-main.js": "/tywangcharlie/pics/static/js/runtime-main.891328e6.js",
-    "runtime-main.js.map": "/tywangcharlie/pics/static/js/runtime-main.891328e6.js.map",
-    "static/js/2.584ec298.chunk.js": "/tywangcharlie/pics/static/js/2.584ec298.chunk.js",
-    "static/js/2.584ec298.chunk.js.map": "/tywangcharlie/pics/static/js/2.584ec298.chunk.js.map",
-    "index.html": "/tywangcharlie/pics/index.html",
-    "precache-manifest.04fb04532c0f1e27c5895b8ee53f1143.js": "/tywangcharlie/pics/precache-manifest.04fb04532c0f1e27c5895b8ee53f1143.js",
-    "service-worker.js": "/tywangcharlie/pics/service-worker.js",
-    "static/css/main.064ab282.chunk.css.map": "/tywangcharlie/pics/static/css/main.064ab282.chunk.css.map"
+    "main.css": "/pics/static/css/main.064ab282.chunk.css",
+    "main.js": "/pics/static/js/main.a08fa393.chunk.js",
+    "main.js.map": "/pics/static/js/main.a08fa393.chunk.js.map",
+    "runtime-main.js": "/pics/static/js/runtime-main.0a93e887.js",
+    "runtime-main.js.map": "/pics/static/js/runtime-main.0a93e887.js.map",
+    "static/js/2.584ec298.chunk.js": "/pics/static/js/2.584ec298.chunk.js",
+    "static/js/2.584ec298.chunk.js.map": "/pics/static/js/2.584ec298.chunk.js.map",
+    "index.html": "/pics/index.html",
+    "precache-manifest.5e6e2b088b70707c89f32d4c145528e5.js": "/pics/precache-manifest.5e6e2b088b70707c89f32d4c145528e5.js",
+    "service-worker.js": "/pics/service-worker.js",
+    "static/css/main.064ab282.chunk.css.map": "/pics/static/css/main.064ab282.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.891328e6.js",
+    "static/js/runtime-main.0a93e887.js",
     "static/js/2.584ec298.chunk.js",
     "static/css/main.064ab282.chunk.css",
     "static/js/main.a08fa393.chunk.js"
